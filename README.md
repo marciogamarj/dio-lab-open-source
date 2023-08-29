@@ -120,6 +120,7 @@ Aprender o básico sobre contribuição no GitHub.
  Além disso, você também pode contribuir:
  
 ⚠️ Resolvendo, respondendo ou indicando **issues**
+*Fazendo*
 
 ⭐ Adicionando aos favoritos (**star**) 
 
